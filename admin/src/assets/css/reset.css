@@ -1,0 +1,10 @@
+*{margin: 0;padding: 0;}
+body{font-size: 12px;font-family: "微软雅黑",Arial;}
+input{outline:none;}
+select{outline: none;}
+img {border:none;}
+textarea{ resize:none;outline:none;}
+ol,ul,li {list-style:none; list-style-type: none;}
+h1{font-size: 12px; font-weight: 100;}
+a{text-decoration: none;}
+input[type="submit"]{border: none;}
